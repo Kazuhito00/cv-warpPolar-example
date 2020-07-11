@@ -1,5 +1,5 @@
 # cv-warpPolar-example
-　cv-warpPolar-exampleは、OpenCVでの極座標変換/逆変換の実行例です。
+cv-warpPolar-exampleは、OpenCVでの極座標変換/逆変換の実行例です。
  
 ![m08sf-wztf9](https://user-images.githubusercontent.com/37477845/87218076-7e4b7900-c38a-11ea-9b83-119bf69e251e.gif)
 
